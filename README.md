@@ -37,3 +37,11 @@ Make sure you have Python installed. Then install the required module:
 
 ```bash
 pip install playsound
+```
+
+# ▶️ Run the Application
+
+```bash
+python countdown_timer.py
+```
+
